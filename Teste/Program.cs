@@ -11,6 +11,7 @@ namespace Teste
         static void Main(string[] args)
         {
             Console.WriteLine("alteraçao");
+            Console.WriteLine("segunda alteração");
         }
     }
 }
